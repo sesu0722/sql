@@ -37,7 +37,7 @@ In this assignment, I designed tables to hold data in the database of employees 
 
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
-## Bonus analysis: `bonus_analysis.ipynb`
+### Bonus analysis: `bonus_analysis.ipynb`
 
 To further examine the data by creating a visualization of the data. Follow these steps: 
 
