@@ -2,11 +2,11 @@
 
 ## Background
 
-In this assignment, I designed tables to hold data in the database of employees CSVs files from 1980s to 1990s, import the CSVs into a SQL database, and analyze the data.
+I designed tables to hold data in the database of employees CSVs files from 1980s to 1990s, import the CSVs into a SQL database, and analyze the data.
 
 ## Before You Begin
 
-1. The repository for this project called `sql-challenge`
+1. The repository for this project called `sql`
 
 2. ERD of the tables `ERD_QuickDBD` inside the repository is created for data modeling by (http://www.quickdatabasediagrams.com).
 
